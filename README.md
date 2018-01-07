@@ -1,2 +1,2 @@
-# firstcours
+# NSU-firstcours-I
 tasks
